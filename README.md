@@ -1,5 +1,5 @@
 # 3D-Model-To-world.edit-command (minetest-W.E)
-a simple project who able me to transfer some 3D model in multicraft (on server)
+a simple project who able me to transfer some 3D model in multicraft (on server) without having to add any files or anything !
 
 ## how to use it:
 lunch it with visual studio and chose a python environement...
