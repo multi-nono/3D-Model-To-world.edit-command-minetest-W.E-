@@ -23,3 +23,9 @@ need to have every multicraft texture,
 in the interface i'll make a tab to change the texture pack it use to refer the colors...
 
 add a compatibility with stair mod.
+
+add shape reconition,
+(when you have a cylender that's small enough, instead of placing all the blocks one by one, you do //cyl, or //cube, //pyr....)
+-- could be a HUGE optimisation in lenght and lag, but i have no idea how to do such a thing...
+
+
